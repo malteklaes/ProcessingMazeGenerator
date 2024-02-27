@@ -9,3 +9,10 @@ To increase the difficulty you have to adjust the variable n, the smaller the ea
 
 or more difficult, for example n=40.
 <img src="./canvas40.png" alt="BILD" style="width:200%; border:0; float:left, margin:5px" >
+
+
+
+# Maze Generator with PathFinder
+
+Additional there is also a javascript for a maze generator with an BFS-like naive pathfinder algorithm, which also solves a random generated maze (with an animation for a little gamification)
+<img src="./mazeSolve.png" alt="BILD" style="width:200%; border:0; float:left, margin:5px" >
